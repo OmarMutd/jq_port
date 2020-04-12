@@ -1,5 +1,5 @@
 body {
-    font-family: "Quattrocento Sans", sans-serif;
+    font-family: "Times New Roman", Times, serif;
     background-color: white;
     overflow: auto;
     width: auto;
@@ -112,8 +112,8 @@ body {
   }
   
   .herotext {
-    font-size: 60px;
-    color: blue;
+    font-size: 50px;
+    color: rgb(32, 32, 196);
   }
   
   .content {
