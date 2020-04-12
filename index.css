@@ -75,7 +75,7 @@ body {
   }
   
   .footer {
-    background-color: black;
+    background-color: lavender;
     position: fixed;
     bottom: 0;
     right: 0;
@@ -109,20 +109,18 @@ body {
     padding: 20px 0 5px 0;
     margin: 80px 0 5px 0;
     text-align: center;
-    letter-spacing: 20px;
   }
   
   .herotext {
     font-size: 60px;
     color: blue;
-    text-shadow: black 0.12em 0.12em 0.2em;
   }
   
   .content {
     margin: 60px 0 20px 0;
     line-height: 180%;
-    color: blue;
-    text-shadow: black 0.1em 0.1em 0.1em;
+    color: black;
+    
   }
   
   .page1 {
@@ -132,14 +130,14 @@ body {
   
   .content2 {
     width: auto;
-    background-color: #0f1b1c;
+    background-color: white;
     padding: 10px 0 0 0px;
     display: flex;
     flex-direction: column;
   }
   
   .project1 {
-    background-color: blue;
+    background-color: lavender;
     margin: 0px 9% 0px 8.0%;
     padding: 1px 0 0 0;
     width: auto;
@@ -149,7 +147,7 @@ body {
   }
   
   .project1-1 {
-    background-color: #0f1b1c;
+    background-color: lavender;
     width: auto;
     height: 100px;
     margin: 1px 0.5% 1px;
@@ -177,7 +175,7 @@ body {
   }
   
   .project1-3 {
-    background-color: #0f1b1c;
+    background-color: lavender;
     height: 60px;
     width: auto;
     margin: 3px 0.5% 0;
@@ -189,7 +187,7 @@ body {
   }
   
   .project1-4 {
-    background-color: #0f1b1c;
+    background-color: lavender;
     height: 152px;
     width: auto;
     margin: 2px 0.5% 3px;
@@ -312,6 +310,8 @@ body {
   .tooltip:hover .tooltiptext {
     visibility: visible;
   }
+
+  
   
   @media screen and (min-width:390px) {
   
@@ -395,7 +395,7 @@ body {
     
     .project1-2 {
       margin: 2px 0px 2px 0;
-      background-color: #0f1b1c;
+      background-color: rgb(192, 192, 241);
       height: 446px;
       width: 99%;
       grid-area: p2;
