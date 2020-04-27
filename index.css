@@ -372,7 +372,7 @@ body {
     .project1 {
       margin: 0 4% 0 4%;
       display: grid;
-      height: 450px;
+      height: 300px;
       padding: 0 0 0 3px;
       grid-template-columns: 60% 40%;
       grid-template-areas: 
@@ -385,8 +385,8 @@ body {
     .project1-1 {
       margin: 2px 0 0 0;
       grid-area: p1;
-      height: 200px;
-      width: 99%;
+      /* height: 200px;
+      width: 99%; */
     }
     
     .project1-1text {
@@ -396,8 +396,8 @@ body {
     .project1-2 {
       margin: 2px 0px 2px 0;
       background-color: rgb(192, 192, 241);
-      width: 820px;
-      height: auto;
+      /* width: 820px;
+      height: auto; */
       grid-area: p2;
     }
     
@@ -415,7 +415,7 @@ body {
     
     .project1-4 {
       grid-area: p4;
-      height: 160px;
+      /* height: 160px; */
       width: 94.5%;
       margin: 0 0 0 0;
     }
